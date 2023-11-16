@@ -74,8 +74,6 @@ span{
 }
 @media (max-width: 600px) {
  *{
-
-    background: tomato;
     grid-template-columns: 1fr !important;
  }
 main{
